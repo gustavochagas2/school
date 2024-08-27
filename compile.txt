@@ -1,0 +1,6 @@
+Para compilar verifica se estás na pasta certa no terminal (WSL Ubuntu) e escreve isto na consola:
+
+gcc -std=gnu11 -Wall -Wextra -pedantic-errors -O ./code/*.c -lm -o t
+
+
+
